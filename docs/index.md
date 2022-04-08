@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to DMP Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [jammasco.github.io/mkdocsTest](https://jammasco.github.io/mkdocsTest/).
 
-## Commands
+## Goals
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* I will be documenting DMP and SERs on this website
+* Goal is to make SERs searchable and DMP legible
+* Hopefully this site documents things in such a way that people can understand changes more easily
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* I'll add layout here in the future
+* Will explain how site is setup
